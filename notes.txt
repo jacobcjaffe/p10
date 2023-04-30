@@ -1,0 +1,13 @@
+get hand as vector
+get hand as map[value]count
+	switch to values between 1-53
+	sort the hand
+		evaluate value of current hand
+		most likely combinations?, what would we need next
+		if we find a combination from the deck, we work our way down
+
+
+
+check for four straight first 
+	check if bottom four, top four are increments
+		check if the next 
